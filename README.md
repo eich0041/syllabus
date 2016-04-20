@@ -5,11 +5,11 @@ permalink: /
 
 # Course Syllabus
 
-**University of xxx**
+**Texas State University**
 
-**College**
+**College of Applied Arts**
 
-**Unit**
+**Occuaptional, Workforce, and Leadership Studies**
 
 ## Course Number: Course Title
 
