@@ -11,12 +11,12 @@ permalink: /
 
 **Occuaptional, Workforce, and Leadership Studies**
 
-## Course Number: Course Title
+## OCED 5300 : Interdisciplinary Research Methods
 
-**Semester Year**
+**Fall 2016**
 
 
-**Instructor: **Dr. ××**   
+**Instructor: **Dr. Eichler**   
 **Office**: Building Number  
 **Email**:  
 
